@@ -1,6 +1,6 @@
 {
   "name": "Desire Path Record",
-  "short_name": "Survey",
+  "short_name": "DesirePath",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#f5f5f5",
